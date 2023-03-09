@@ -1,0 +1,3 @@
+displayName = Yuri's Music
+author = Yuri O
+version = 0.1
